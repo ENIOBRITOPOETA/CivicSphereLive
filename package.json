@@ -4,6 +4,7 @@
   "description": "MVP da plataforma CivicSphere - engajamento cívico com recompensas digitais",
   "main": "server/index.js",
   "scripts": {
+    "start": "node server/index.js",
     "dev": "nodemon server/index.js"
   },
   "keywords": ["civic", "sphere", "mvp", "social"],
